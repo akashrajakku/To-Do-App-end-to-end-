@@ -11,7 +11,7 @@
 
 const mongoose= require("mongoose");
 
-mongoose.connect("mongodb+srv://admin:akash%401234@cluster0.1on2nye.mongodb.net/")
+mongoose.connect("Your_mongo_url")
 
 const todoSchema= mongoose.Schema({
     title: String,
