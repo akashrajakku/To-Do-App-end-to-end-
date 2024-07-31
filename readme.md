@@ -5,15 +5,15 @@ A simple TODO application that can do:
 - see existing todo
 - mark as done/undone 
 
-## Backend
+  ## Backend
 
-- Express app for routes
-- Mongoose for collections
-- Zod for validation
-- Mongodb as database
+      - Express app for routes
+      - Mongoose for collections
+      - Zod for validation
+      - Mongodb as database
 
   ## Frontend
 
-  - CreateTodo
-  - UpdateTodo
-  - RenderTodo
+      - CreateTodo
+      - UpdateTodo
+      - RenderTodo
